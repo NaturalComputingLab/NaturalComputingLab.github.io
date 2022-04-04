@@ -28,8 +28,8 @@ github_username:  naturalcomputinglaboratory
 
 # Build settings
 # theme: minima
-remote_theme: broccolini/swiss
-# theme: jekyll-swiss
+# remote_theme: broccolini/swiss
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
