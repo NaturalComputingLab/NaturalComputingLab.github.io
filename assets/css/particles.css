@@ -1,0 +1,24 @@
+/* ---- particles.js container ---- */
+
+body {
+    background-color: #181818;
+}
+
+#particles-js{
+    width: 100vw;
+    height: 100vh;
+    background-color: #181818;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+#logo{
+    width: 33%;
+    height: 33%;
+    align-items: center;
+    position: absolute;
+    top: 25%;
+    right: 33%;
+    text-align: center;
+}

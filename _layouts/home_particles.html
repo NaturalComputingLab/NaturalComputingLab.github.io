@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  <body>
+
+    <link rel="stylesheet" href="assets/css/particles.css">
+    <div id="particles-js">
+      <div id="logo">
+	<img src="assets/images/NaCL.png" width="100%">
+	<div class="clearfix header-border">
+          <ul class="list-reset py-1 header-text font-smoothing">
+	    {% for my_page in site.pages %}
+	    {% if my_page.title %}
+	    <li class="inline-block">
+              <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+	    </li>
+	    {% endif %}
+	    {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- scripts -->
+    <script src="assets/js/particles.min.js"></script>
+    <script src="assets/js/app.js"></script>
+  </body>
+
+</html>
