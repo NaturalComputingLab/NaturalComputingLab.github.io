@@ -1,6 +1,7 @@
 ---
 title: Events
 layout: page
+menu: true
 ---
 
 ## 2022

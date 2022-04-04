@@ -1,6 +1,7 @@
 ---
 title: People
 layout: page
+menu: true
 ---
 
 # Faculty

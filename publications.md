@@ -1,6 +1,7 @@
 ---
 title: Publications
 layout: page
+menu: true
 ---
 
 ## 2022
