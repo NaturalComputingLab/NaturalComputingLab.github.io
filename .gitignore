@@ -1,4 +1,4 @@
 .bundle
 .jekyll-cache
-_site
-_vendor
+_site/
+vendor/
