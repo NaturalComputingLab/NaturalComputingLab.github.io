@@ -6,12 +6,12 @@ menu: true
 
 # Faculty
 
-- [Luca Manzoni](people/lmanzoni.html)
+- [Luca Manzoni](people/lmanzoni)
 
 # PhD Candidates
 
-- [Gloria Pietropolli](people/gpietropolli.html)
-- [Giuliamaria Menara](people/gmenara.html)
+- [Gloria Pietropolli](people/gpietropolli)
+- [Giuliamaria Menara](people/gmenara)
 
 # Students
 
