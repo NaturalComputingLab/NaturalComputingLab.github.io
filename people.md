@@ -15,4 +15,6 @@ menu: true
 
 # Students
 
-- **Francesco Urdih** - bachelor in electronic and computer engineering
+- **Michele Alessi** - bachelor degree in mathematics
+- **Andrea Gottardi*** - bachelor degree in mathematics
+- **Francesco Urdih** - bachelor degree in electronic and computer engineering
