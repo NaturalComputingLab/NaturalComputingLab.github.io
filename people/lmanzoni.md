@@ -4,7 +4,7 @@ layout: plain
 
 # Luca Manzoni
 
-Luca Manzoni is an assistant professor (associate professor from July 2022) in the field of Evolutionary Computation, Artificial Intelligence, and Natural Computing. In the last five years he held courses from the bachelor to the PhD level on the topics of algorithms, computational complexity, computer architectures, operating systems, information retrieval, and evolutionary computation. 
+Luca Manzoni is an associate professor in the field of Evolutionary Computation, Artificial Intelligence, and Natural Computing. In the last five years he held courses from the bachelor to the PhD level on the topics of algorithms, computational complexity, computer architectures, operating systems, information retrieval, and evolutionary computation. 
 
  He is currently the head of the Natural Computing Lab. Luca is currently unit leader of the Erasmus Plus Project "Digital Empowering Trough HPC Education - HiPowerEd". In term of research, Luca Manzoni published more than 100 papers in international conferences and journals. He is an associate editor of the journal "Swarm and Evolutionary Computation" (highest percentile on Scopus: 99%).
  
