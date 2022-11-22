@@ -8,12 +8,14 @@ menu: true
 
 - [Luca Manzoni](people/lmanzoni)
 
+# Postdocs
+
+- [Chiara Gallese](people/cgallese)
+
 # PhD Candidates
 
 - [Gloria Pietropolli](people/gpietropolli)
 - [Giuliamaria Menara](people/gmenara)
-
-# Students
-
-- **Michele Alessi** - bachelor degree in mathematics
-- **Andrea Gottardi** - bachelor degree in mathematics
+- [Rocco Ascone](people/rascone)
+- [Umberto Di Laudo](people/udilaudo)
+- [Michele Rispoli](people/mrispoli)
